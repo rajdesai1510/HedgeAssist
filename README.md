@@ -2,9 +2,9 @@
 
 A comprehensive Telegram-based crypto portfolio risk management and automated hedging system with real-time monitoring, advanced analytics, and professional-grade risk controls.
 
-### **Note**: Currently the project works on sort of Demo portfolio. Further it will be given the functionality to connect to real accounts and manage accordingly. Although it uses real time price and data from Deribit api.
+### ***Note***: *Currently the project works on sort of Demo portfolio. Further it will be given the functionality to connect to real accounts and manage accordingly. Although it uses real time price and data from Deribit api*.
 
-### Demo Video: https://drive.google.com/file/d/1D8F2v5gf4QGUcbW1JmvrDMdScwASWMD1/view?usp=sharing
+### Demo Video: https://drive.google.com/file/d/1lA3aCNdUVPi33T5tY5W6VZxLqM_QENwl/view?usp=drivesdk
 ## 🚀 **FULLY IMPLEMENTED FEATURES**
 
 ### 📊 **Real-Time Risk Monitoring**
